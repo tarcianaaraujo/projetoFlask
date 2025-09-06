@@ -1,0 +1,21 @@
+.formulario h3 {
+    color: rgb(10, 26, 26);
+    font-size: 50 px;
+    text-align: center;
+    
+
+}
+.formulario{
+    background-color: aquamarine;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0px 8px 16px rgba(rgb(214, 100, 100), rgb(128, 214, 128), rgb(77, 77, 221));
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+}
+.formulario label{
+    font-size: 30 px;
+    color: rgb(10, 26, 26);
+    display: block;
+}
