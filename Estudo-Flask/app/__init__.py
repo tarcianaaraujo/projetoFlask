@@ -20,3 +20,5 @@ login_manager = LoginManager(app)
 login_manager.login_view ="login"
 bcrypt = Bcrypt(app)
 
+from app.routes import homepage
+from app.models import Contato
